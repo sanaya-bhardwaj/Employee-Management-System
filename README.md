@@ -24,7 +24,7 @@ Generate printable formats for records when required.
 -  Providing easy access and manipulation of employee records
 
 # 🛠️ Tech Stack
-Java:Backend logic and UI design using Swing
-MySQL:Data storage and management
-NetBeans:Integrated Development Environment (IDE)
+-  Java:Backend logic and UI design using Swing
+-  MySQL:Data storage and management
+-  NetBeans:Integrated Development Environment (IDE)
 
